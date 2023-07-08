@@ -83,6 +83,5 @@
 Итог №1
 Итог №2
 # Контактная информация
-Email: name@email.com
-LinkedIn: https://www.linkedin.com/in/username/
-Личный сайт: https://www.username.com
+- Email: iliya.novikov.117@mail.ru
+- Личный сайт: https://vk.com/iliyam777
